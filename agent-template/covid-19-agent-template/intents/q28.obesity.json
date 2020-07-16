@@ -18,7 +18,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have severe obesity (body mass index [BMI] of 40 or higher)?\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have obesity (body mass index [BMI] of 30 or higher)?\u003c/speak\u003e"
         },
         {
           "type": 4,
@@ -28,25 +28,25 @@
             "richContent": [
               [
                 {
-                  "type": "description",
-                  "title": "Do #pronouns.pronoun1 have severe obesity (body mass index [BMI] of 40 or higher)?"
+                  "title": "Do #pronouns.pronoun1 have obesity (body mass index [BMI] of 30 or higher)?",
+                  "type": "description"
                 }
               ],
               [
                 {
-                  "type": "chips",
                   "options": [
                     {
-                      "image": {},
+                      "link": "",
                       "text": "Yes",
-                      "link": ""
+                      "image": {}
                     },
                     {
+                      "link": "",
                       "image": {},
-                      "text": "No",
-                      "link": ""
+                      "text": "No"
                     }
-                  ]
+                  ],
+                  "type": "chips"
                 }
               ]
             ]

@@ -1,10 +1,10 @@
 {
   "id": "a30fd911-9112-4461-b475-55e4a8add086",
-  "name": "q30.hcp",
+  "name": "q31.hcp",
   "auto": true,
   "contexts": [
     "pronouns",
-    "q30-hcp"
+    "q31-hcp"
   ],
   "responses": [
     {
@@ -37,14 +37,14 @@
                   "type": "chips",
                   "options": [
                     {
-                      "image": {},
+                      "link": "",
                       "text": "Yes",
-                      "link": ""
+                      "image": {}
                     },
                     {
-                      "text": "No",
                       "link": "",
-                      "image": {}
+                      "image": {},
+                      "text": "No"
                     }
                   ]
                 }
