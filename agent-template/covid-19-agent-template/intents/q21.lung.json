@@ -18,7 +18,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have chronic lung disease or moderate to severe asthma?\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have COPD (chronic obstructive pulmonary disease)?\u003c/speak\u003e"
         },
         {
           "type": 4,
@@ -29,7 +29,7 @@
               [
                 {
                   "type": "description",
-                  "title": "Do #pronouns.pronoun1 have chronic lung disease or moderate to severe asthma?"
+                  "title": "Do #pronouns.pronoun1 have COPD (chronic obstructive pulmonary disease)?"
                 }
               ],
               [
@@ -37,8 +37,8 @@
                   "type": "chips",
                   "options": [
                     {
-                      "text": "Yes",
                       "link": "",
+                      "text": "Yes",
                       "image": {}
                     },
                     {

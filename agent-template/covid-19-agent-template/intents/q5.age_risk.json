@@ -18,7 +18,7 @@
           "lang": "en",
           "condition": "",
           "text": "",
-          "ssml": "\u003cspeak\u003eAre #pronouns.pronoun1 65+ years old?\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eAre #pronouns.pronoun1 50+ years old?\u003c/speak\u003e"
         },
         {
           "type": 4,
@@ -28,25 +28,25 @@
             "richContent": [
               [
                 {
-                  "title": "Are #pronouns.pronoun1 65+ years old?",
+                  "title": "Are #pronouns.pronoun1 50+ years old?",
                   "type": "description"
                 }
               ],
               [
                 {
-                  "type": "chips",
                   "options": [
                     {
-                      "text": "Yes",
                       "link": "",
+                      "text": "Yes",
                       "image": {}
                     },
                     {
+                      "image": {},
                       "text": "No",
-                      "link": "",
-                      "image": {}
+                      "link": ""
                     }
-                  ]
+                  ],
+                  "type": "chips"
                 }
               ]
             ]
