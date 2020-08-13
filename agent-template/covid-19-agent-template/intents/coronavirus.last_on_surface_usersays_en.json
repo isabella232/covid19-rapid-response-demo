@@ -8,8 +8,8 @@
       },
       {
         "text": "virsus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -18,13 +18,14 @@
       },
       {
         "text": "food",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -36,8 +37,8 @@
       },
       {
         "text": "virsus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -47,6 +48,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -59,6 +61,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -71,6 +74,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -82,13 +86,14 @@
       },
       {
         "text": "clothes",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -100,8 +105,8 @@
       },
       {
         "text": "metal",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -111,6 +116,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -132,6 +138,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -143,8 +150,8 @@
       },
       {
         "text": "paper",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -154,6 +161,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -165,8 +173,8 @@
       },
       {
         "text": "paper",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -176,6 +184,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -187,8 +196,8 @@
       },
       {
         "text": "plastic",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -198,6 +207,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -209,8 +219,8 @@
       },
       {
         "text": "plastic",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -220,6 +230,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -231,8 +242,8 @@
       },
       {
         "text": "clothes",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -242,6 +253,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -253,8 +265,8 @@
       },
       {
         "text": "paper",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -264,6 +276,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -275,8 +288,8 @@
       },
       {
         "text": "metal surfaces",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -286,6 +299,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -297,13 +311,14 @@
       },
       {
         "text": "metal",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -315,8 +330,8 @@
       },
       {
         "text": "surfaces",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -326,6 +341,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -337,13 +353,14 @@
       },
       {
         "text": "surfaces",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -356,6 +373,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -367,8 +385,8 @@
       },
       {
         "text": "coronaviruses",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -377,8 +395,8 @@
       },
       {
         "text": "surfaces",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": true
       },
       {
@@ -388,6 +406,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -400,6 +419,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -412,6 +432,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -423,8 +444,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -434,6 +455,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

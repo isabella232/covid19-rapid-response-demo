@@ -1,6 +1,5 @@
 [
   {
-    "id": "4060039b-d9b5-411f-b89b-e57920c22b54",
     "data": [
       {
         "text": "What kind of test do I need to get checked for ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -19,10 +18,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "328568bb-1216-42ea-8efe-b8a96dac532b",
     "data": [
       {
         "text": "What test diagnoses ",
@@ -30,8 +29,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -41,10 +40,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "a5d84d8b-1f90-443f-a3ed-22e959bf7d88",
     "data": [
       {
         "text": "What kind of test is being used to diagnose if I have ",
@@ -52,8 +51,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -63,6 +62,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

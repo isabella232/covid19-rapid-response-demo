@@ -6,25 +6,30 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eIn light of new data about how COVID-19 spreads, along with evidence of widespread COVID-19 illness in communities across the country, CDC recommends that people wear a cloth face covering to cover their nose and mouth in the community setting. This is an additional public health measure people should take to reduce the spread of COVID-19 in addition to (not instead of) social distancing, frequent hand cleaning and other everyday preventive actions. A cloth face covering is not intended to protect the wearer, but may prevent the spread of virus from the wearer to others. This would be especially important in the event that someone is infected but does not have symptoms.  A cloth face covering should be worn whenever people must go into public settings (grocery stores, for example). Medical masks and N-95 respirators are reserved for healthcare workers and other first responders, as recommended by current CDC guidance.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eWear masks in public settings when around people not living in your household and particularly where other social distancing measures are difficult to maintain, such as grocery stores, pharmacies, and gas stations. Masks may slow the spread of the virus and help people who may have the virus and do not know it from transmitting it to others.  COVID-19 can be spread by people who do not have symptoms and do not know that they are infected. That’s why it’s important for everyone to practice social distancing (staying at least 6 feet away from other people) and wear masks in public settings. Masks provide an extra layer to help prevent the respiratory droplets from traveling in the air and onto other people.  The masks recommended are not surgical masks or N-95 respirators. Those are critical supplies that must continue to be reserved for healthcare workers and other medical first responders, as recommended by current CDC guidance.\u003c/speak\u003e",
+          "condition": ""
         },
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": "In light of new data about how COVID-19 spreads, along with evidence of widespread COVID-19 illness in communities across the country, CDC recommends that people wear a cloth face covering to cover their nose and mouth in the community setting. This is an additional public health measure people should take to reduce the spread of COVID-19 in addition to (not instead of) social distancing, frequent hand cleaning and other everyday preventive actions. A cloth face covering is not intended to protect the wearer, but may prevent the spread of virus from the wearer to others. This would be especially important in the event that someone is infected but does not have symptoms. \nA cloth face covering should be worn whenever people must go into public settings (grocery stores, for example). Medical masks and N-95 respirators are reserved for healthcare workers and other first responders, as recommended by current CDC guidance."
+          "speech": [
+            "Wear masks in public settings when around people not living in your household and particularly where other social distancing measures are difficult to maintain, such as grocery stores, pharmacies, and gas stations. Masks may slow the spread of the virus and help people who may have the virus and do not know it from transmitting it to others.\n\nCOVID-19 can be spread by people who do not have symptoms and do not know that they are infected. That’s why it’s important for everyone to practice social distancing (staying at least 6 feet away from other people) and wear masks in public settings. Masks provide an extra layer to help prevent the respiratory droplets from traveling in the air and onto other people.\n\nThe masks recommended are not surgical masks or N-95 respirators. Those are critical supplies that must continue to be reserved for healthcare workers and other medical first responders, as recommended by current CDC guidance."
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

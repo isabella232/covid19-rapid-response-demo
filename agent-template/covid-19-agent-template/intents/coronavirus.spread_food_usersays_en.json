@@ -1,6 +1,5 @@
 [
   {
-    "id": "6a263250-88e9-4d42-9421-64c7cd179245",
     "data": [
       {
         "text": "Can COVID-19 spread from food?",
@@ -9,10 +8,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "c08264ea-4850-4954-8dfe-db466a684416",
     "data": [
       {
         "text": "Do ",
@@ -20,8 +19,8 @@
       },
       {
         "text": "food",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": false
       },
       {
@@ -30,8 +29,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -41,10 +40,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "1e60e839-476e-4800-b47d-d6e8b44b209d",
     "data": [
       {
         "text": "Can ",
@@ -52,8 +51,8 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -63,10 +62,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "3c463f68-3f1f-4bab-bb23-38825df6efc4",
     "data": [
       {
         "text": "Can the ",
@@ -74,8 +73,8 @@
       },
       {
         "text": "virus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -84,8 +83,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-191",
         "meta": "@covid-19",
+        "alias": "covid-191",
         "userDefined": false
       },
       {
@@ -94,8 +93,8 @@
       },
       {
         "text": "food",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": false
       },
       {
@@ -104,8 +103,8 @@
       },
       {
         "text": "food",
-        "alias": "surface1",
         "meta": "@surface",
+        "alias": "surface1",
         "userDefined": false
       },
       {
@@ -115,6 +114,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

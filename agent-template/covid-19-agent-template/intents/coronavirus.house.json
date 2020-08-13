@@ -6,35 +6,43 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [
         {
           "id": "32ed96bd-610e-4c87-bc82-b1438fe441ce",
+          "name": "covid-19",
           "required": false,
           "dataType": "@covid-19",
-          "name": "covid-19",
           "value": "$covid-19",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
+          "outputDialogContexts": []
         }
       ],
       "messages": [
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eMost people who get COVID-19 will be able to recover at home. The CDC website has directions for people who are recovering at home and their caregivers.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eMost people who get COVID-19 will be able to recover at home. The CDC website has directions for people who are recovering at home and their caregivers.\u003c/speak\u003e",
+          "condition": ""
         },
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": "Most people who get COVID-19 will be able to recover at home. The CDC website has directions for people who are recovering at home and their caregivers."
+          "speech": [
+            "Most people who get COVID-19 will be able to recover at home. The CDC website has directions for people who are recovering at home and their caregivers."
+          ],
+          "condition": ""
         }
       ],
       "defaultResponsePlatforms": {

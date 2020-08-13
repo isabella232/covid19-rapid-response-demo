@@ -1,6 +1,5 @@
 [
   {
-    "id": "c041be05-e65e-4662-bd9b-3c2eaf001b19",
     "data": [
       {
         "text": "Can someone test positive for ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -19,10 +18,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "c4a941a9-9eee-47b2-aade-ba107c8b8875",
     "data": [
       {
         "text": "Can I have ",
@@ -30,8 +29,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -41,10 +40,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "2806ca63-80b7-47fb-b8ae-d110ccb70f56",
     "data": [
       {
         "text": "Can I test positive after a negative test?",
@@ -53,10 +52,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "97697160-c122-4e77-a266-acb473df38da",
     "data": [
       {
         "text": "Can a person test negative and later test positive for ",
@@ -64,8 +63,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -75,6 +74,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

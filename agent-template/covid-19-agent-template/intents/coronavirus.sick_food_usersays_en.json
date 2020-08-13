@@ -1,6 +1,5 @@
 [
   {
-    "id": "09685137-915e-4faa-9b48-c1aa0fad7465",
     "data": [
       {
         "text": "What if ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -18,8 +17,8 @@
       },
       {
         "text": "food",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": false
       },
       {
@@ -29,10 +28,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "196a1578-ac5d-473e-8be3-75315091efbc",
     "data": [
       {
         "text": "Can I get ",
@@ -40,8 +39,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -50,8 +49,8 @@
       },
       {
         "text": "food",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": false
       },
       {
@@ -61,10 +60,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "6434520f-a39d-445c-a1b5-f8649f47a60c",
     "data": [
       {
         "text": "Can I get sick with ",
@@ -72,8 +71,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -82,8 +81,8 @@
       },
       {
         "text": "food",
-        "alias": "surface",
         "meta": "@surface",
+        "alias": "surface",
         "userDefined": false
       },
       {
@@ -93,6 +92,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

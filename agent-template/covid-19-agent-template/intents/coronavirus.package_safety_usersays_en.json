@@ -1,6 +1,5 @@
 [
   {
-    "id": "1a21417d-0fa1-41a0-93ce-66de368cd3eb",
     "data": [
       {
         "text": "Can I get ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -19,10 +18,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "d650950c-4f6c-43f6-a28e-504d1b9bb70f",
     "data": [
       {
         "text": "Is there ",
@@ -30,8 +29,8 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -41,10 +40,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "0d3f6b18-cbe4-467d-88a2-fe6d2ceaa312",
     "data": [
       {
         "text": "Can deliveries spread ",
@@ -52,8 +51,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -63,10 +62,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "428319c4-7070-4a5f-8898-7c77ecb310da",
     "data": [
       {
         "text": "Can my mail give my ",
@@ -74,8 +73,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -85,10 +84,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "5019192b-6202-4adb-a8fe-a14bb8056288",
     "data": [
       {
         "text": "Am I at risk for ",
@@ -96,8 +95,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -107,6 +106,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

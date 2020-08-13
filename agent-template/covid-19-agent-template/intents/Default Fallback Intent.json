@@ -6,19 +6,22 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
           "speech": [
             "Sorry, I don\u0027t know how to answer that.",
             "I\u0027m not sure how to answer that question. Try rephrasing it.",
             "I don\u0027t understand the question.",
             "Hmm, I\u0027m not sure I know that."
-          ]
+          ],
+          "condition": ""
         }
       ],
       "defaultResponsePlatforms": {

@@ -9,21 +9,22 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eIs the child experiencing any of these life-threatening symptoms? Extremely fast or shallow breathing. Blue-colored lips or face. Not waking up or not interacting when awake. So irritable that the child does not want to be held. Seizures.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eIs the child experiencing any of these life-threatening symptoms? Extremely fast or shallow breathing. Blue-colored lips or face. Not waking up or not interacting when awake. So irritable that the child does not want to be held. Seizures.\u003c/speak\u003e",
+          "condition": ""
         },
         {
-          "type": 4,
-          "lang": "en",
-          "condition": "",
+          "type": "4",
+          "title": "",
           "payload": {
             "richContent": [
               [
@@ -57,7 +58,10 @@
                 }
               ]
             ]
-          }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
         }
       ],
       "defaultResponsePlatforms": {

@@ -4,6 +4,7 @@
   "shortDescription": "",
   "examples": "",
   "linkToDocs": "",
+  "displayName": "covid-19-faq-and-screener",
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
@@ -33,19 +34,18 @@
   "webhook": {
     "url": "https://us-central1-covid-19-faq-and-screener-gjrp.cloudfunctions.net/dialogflowFirebaseFulfillment",
     "username": "",
-    "headers": {
-      "": ""
-    },
+    "headers": {},
     "available": true,
     "useForDomains": false,
     "cloudFunctionsEnabled": true,
     "cloudFunctionsInitialized": true
   },
   "isPrivate": true,
-  "customClassifierMode": "use.instead",
   "mlMinConfidence": 0.7,
   "supportedLanguages": [],
+  "enableOnePlatformApi": true,
   "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],
   "knowledgeServiceConfidenceAdjustment": -0.7,

@@ -1,6 +1,5 @@
 [
   {
-    "id": "1947546f-1ece-421c-8f3c-64520fb3b8ca",
     "data": [
       {
         "text": "I\u0027ve had close contact with someone who has ",
@@ -8,17 +7,17 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "634bd576-053e-4d02-a729-1372a53fe77d",
     "data": [
       {
         "text": "What should I do if I\u0027ve met someone with ",
@@ -26,8 +25,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -37,10 +36,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "b71db189-703c-4f9f-8f2a-5f35538ccf6a",
     "data": [
       {
         "text": "I\u0027ve been exposed to ",
@@ -48,17 +47,17 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "a1930b66-b9c8-47f0-b1ad-9d446488c70b",
     "data": [
       {
         "text": "What should I do if I have had close contact with someone who has ",
@@ -66,8 +65,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -77,6 +76,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

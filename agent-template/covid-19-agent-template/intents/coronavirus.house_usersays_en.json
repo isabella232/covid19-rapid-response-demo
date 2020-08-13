@@ -1,6 +1,5 @@
 [
   {
-    "id": "a5f62d12-35a5-42a5-9b56-a73e30e458d9",
     "data": [
       {
         "text": "Someone in my house has ",
@@ -8,17 +7,17 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "b6a58278-bff1-499d-a536-dede5383b222",
     "data": [
       {
         "text": "What if my roommate is sick?",
@@ -27,10 +26,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "ed12ccc2-f5d9-49c9-ba13-bdd83b35c35d",
     "data": [
       {
         "text": "What should I do if someone in my house gets sick with ",
@@ -38,8 +37,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -49,6 +48,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

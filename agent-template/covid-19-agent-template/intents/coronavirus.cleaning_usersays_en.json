@@ -1,6 +1,5 @@
 [
   {
-    "id": "7227f139-c02b-4f47-afef-435c44a55b71",
     "data": [
       {
         "text": "What can I use to clean and disinfect ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -19,10 +18,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "16ae036f-d31c-4378-b2ae-0df3c56ca54b",
     "data": [
       {
         "text": "What cleaning products should I use to protect against ",
@@ -30,8 +29,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -41,6 +40,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

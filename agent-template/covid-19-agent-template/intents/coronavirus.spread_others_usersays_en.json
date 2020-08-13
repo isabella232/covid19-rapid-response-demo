@@ -1,6 +1,5 @@
 [
   {
-    "id": "c5876759-97b0-40a9-8301-e2c080ad0b12",
     "data": [
       {
         "text": "How long after recovering can someone spread ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -19,10 +18,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "238aaa04-2e7e-4db8-b03e-1737703c8e07",
     "data": [
       {
         "text": "Can someone spread ",
@@ -30,8 +29,8 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -41,10 +40,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "3085f62d-9867-49a5-bf55-ed6954e9b294",
     "data": [
       {
         "text": "How long can someone spread ",
@@ -52,8 +51,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -63,10 +62,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "36b4ec23-5f2c-4a19-a802-460a2d03fd37",
     "data": [
       {
         "text": "Can someone who has had ",
@@ -74,8 +73,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -85,6 +84,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]
