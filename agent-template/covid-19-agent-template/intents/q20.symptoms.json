@@ -9,21 +9,22 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have any of the following symptoms. Chills. Fatigue. Muscle or body aches. Headaches. New loss of taste or smell. Sore throat. Congestion or runny nose. Nausea or vomiting. Diarrhea.\u003cspeak\u003e"
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have any of the following symptoms. Chills. Fatigue. Muscle or body aches. Headaches. New loss of taste or smell. Sore throat. Congestion or runny nose. Nausea or vomiting. Diarrhea.\u003cspeak\u003e",
+          "condition": ""
         },
         {
-          "type": 4,
-          "lang": "en",
-          "condition": "",
+          "type": "4",
+          "title": "",
           "payload": {
             "richContent": [
               [
@@ -61,7 +62,10 @@
                 }
               ]
             ]
-          }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
         }
       ],
       "defaultResponsePlatforms": {

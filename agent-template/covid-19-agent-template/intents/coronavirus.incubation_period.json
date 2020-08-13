@@ -6,25 +6,30 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eAccording to the World Health Organization, the incubation period, the time between catching the novel coronavirus and showing symptoms of  the \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e  disease range from 1-14 days, most commonly around 5 days.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eAccording to the World Health Organization, the incubation period, the time between catching the novel coronavirus and showing symptoms of  the \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e  disease range from 1-14 days, most commonly around 5 days.\u003c/speak\u003e",
+          "condition": ""
         },
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": "According to the World Health Organization, the incubation period, the time between catching the novel coronavirus and showing symptoms of  the COVID-19 disease range from 1-14 days, most commonly around 5 days."
+          "speech": [
+            "According to the World Health Organization, the incubation period, the time between catching the novel coronavirus and showing symptoms of  the COVID-19 disease range from 1-14 days, most commonly around 5 days."
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

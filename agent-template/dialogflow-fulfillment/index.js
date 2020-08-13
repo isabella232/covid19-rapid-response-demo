@@ -285,10 +285,10 @@ const CARD_AC1 = [{
   'title': `${PRONOUN1_UP} should stay in ${PRONOUN2} room except to get medical care`,
   'type': 'accordion',
   'text':
-      `To prevent getting other people sick ${PRONOUN1} should stay in ${PRONOUN2} room or apartment until ${PRONOUN1} can talk with a healthcare provider in ${PRONOUN2} facility.<br><br>Cover mouth and nose with a cloth face mask when outside the room.<br><br>${CDC_SOURCE}`
+      `To prevent getting other people sick ${PRONOUN1} should stay in ${PRONOUN2} room or apartment until ${PRONOUN1} can talk with a healthcare provider in ${PRONOUN2} facility.<br><br>Cover mouth and nose with a mask when outside the room.<br><br>${CDC_SOURCE}`
 }];
 
-const CARD_AC1_TELEPHONY = `${PRONOUN1_UP} should stay in ${PRONOUN2} room except to get medical care. To prevent getting other people sick ${PRONOUN1} should stay in ${PRONOUN2} room or apartment until ${PRONOUN1} can talk with a healthcare provider in ${PRONOUN2} facility. Cover mouth and nose with a cloth face mask when outside the room. Source: CDC.`;
+const CARD_AC1_TELEPHONY = `${PRONOUN1_UP} should stay in ${PRONOUN2} room except to get medical care. To prevent getting other people sick ${PRONOUN1} should stay in ${PRONOUN2} room or apartment until ${PRONOUN1} can talk with a healthcare provider in ${PRONOUN2} facility. Cover mouth and nose with a mask when outside the room. Source: CDC.`;
 
 const CARD_AC2 = [{
   'title': `${PRONOUN1_UP} should stay home except to get medical care`,
@@ -309,13 +309,13 @@ const CARD_AC3 = [{
 const CARD_AC3_TELEPHONY = `${PRONOUN1_UP} should stay separated from other people and pets. If ${PRONOUN1} live with other people or pets, as much as possible ${PRONOUN1} should stay in ${PRONOUN2} own room and away from other people and pets, and ideally use a separate bathroom. Source: CDC.`;
 
 const CARD_AC4 = [{
-  'title': `${PRONOUN1_UP} should wear a cloth face mask, if possible`,
+  'title': `${PRONOUN1_UP} should wear a mask, if possible`,
   'type': 'accordion',
   'text':
-      `${PRONOUN1_UP} should wear a cloth face mask when:<ul><li>Sharing a room or vehicle with other people</li><li>Entering a healthcare provider's office </li><li>Going out in public</li></ul>If ${PRONOUN1} aren't able to wear a cloth face mask, other members of the household shouldn't stay in the same room unless they wear a cloth face mask.<br><br>${CDC_SOURCE}`
+      `${PRONOUN1_UP} should wear a mask when:<ul><li>Sharing a room or vehicle with other people</li><li>Entering a healthcare provider's office </li><li>Going out in public</li></ul>If ${PRONOUN1} aren't able to wear a mask, other members of the household shouldn't stay in the same room unless they wear a mask.<br><br>${CDC_SOURCE}`
 }];
 
-const CARD_AC4_TELEPHONY = `${PRONOUN1_UP} should wear a cloth face mask, if possible. ${PRONOUN1_UP} should wear a cloth face mask when sharing a room or vehicle with others, entering a healthcare provider's office, or going out in public. If ${PRONOUN1} aren't able to wear a cloth face mask, other members of the household shouldn't stay in the same room unless they wear a cloth face mask. Source: CDC.`;
+const CARD_AC4_TELEPHONY = `${PRONOUN1_UP} should wear a mask, if possible. ${PRONOUN1_UP} should wear a mask when sharing a room or vehicle with others, entering a healthcare provider's office, or going out in public. If ${PRONOUN1} aren't able to wear a mask, other members of the household shouldn't stay in the same room unless they wear a mask. Source: CDC.`;
 
 const CARD_AC5 = [{
   'title': `Cover coughs and sneezes`,
@@ -357,19 +357,19 @@ const CARD_AC9 = [{
   'title': `Monitor ${PRONOUN2} symptoms`,
   'type': 'accordion',
   'text':
-      `${PRONOUN1_UP} should seek medical attention right away if ${PRONOUN2} symptoms get worse.<br><br>${PRONOUN1_UP} should put on a cloth face mask before entering a healthcare facility to prevent others from getting sick.<br><br>${CDC_SOURCE}`
+      `${PRONOUN1_UP} should seek medical attention right away if ${PRONOUN2} symptoms get worse.<br><br>${PRONOUN1_UP} should put on a mask before entering a healthcare facility to prevent others from getting sick.<br><br>${CDC_SOURCE}`
 }];
 
-const CARD_AC9_TELEPHONY = `Monitor ${PRONOUN2} symptoms. ${PRONOUN1_UP} should seek medical attention right away if ${PRONOUN2} symptoms get worse. ${PRONOUN1_UP} should put on a cloth face mask before entering a healthcare facility to prevent others from getting sick. Source: CDC.`;
+const CARD_AC9_TELEPHONY = `Monitor ${PRONOUN2} symptoms. ${PRONOUN1_UP} should seek medical attention right away if ${PRONOUN2} symptoms get worse. ${PRONOUN1_UP} should put on a mask before entering a healthcare facility to prevent others from getting sick. Source: CDC.`;
 
 const CARD_AC10 = [{
   'title': `Take steps to avoid getting or spreading COVID-19`,
   'type': 'accordion',
   'text':
-      `<ul><li>Wash hands frequently</li><li>Avoid touching eyes, nose, and mouth</li><li>Stay home when sick</li><li>Cover a cough or sneeze with a tissue, then throw the tissue in the trash</li><li>Clean and disinfect frequently touched objects and surfaces everyday</li><li>Cover mouth and nose with a cloth face mask when going out in public</li></ul>${CDC_HOUSEHOLD_SOURCE}`
+      `<ul><li>Wash hands frequently</li><li>Avoid touching eyes, nose, and mouth</li><li>Stay home when sick</li><li>Cover a cough or sneeze with a tissue, then throw the tissue in the trash</li><li>Clean and disinfect frequently touched objects and surfaces everyday</li><li>Cover mouth and nose with a mask when going out in public</li></ul>${CDC_HOUSEHOLD_SOURCE}`
 }];
 
-const CARD_AC10_TELEPHONY = `Take steps to avoid getting or spreading COVID-19. Wash hands frequently. Avoid touching eyes, nose, and mouth. Stay home when sick. Cover a cough or sneeze with a tissue, then throw the tissue in the trash. Clean and disinfect frequently touched objects and surfaces everyday. Cover mouth and nose with a cloth face mask when going out in public. Source: Household Checklist, CDC.`;
+const CARD_AC10_TELEPHONY = `Take steps to avoid getting or spreading COVID-19. Wash hands frequently. Avoid touching eyes, nose, and mouth. Stay home when sick. Cover a cough or sneeze with a tissue, then throw the tissue in the trash. Clean and disinfect frequently touched objects and surfaces everyday. Cover mouth and nose with a mask when going out in public. Source: Household Checklist, CDC.`;
 
 const CARD_AC11 = [{
   'title': `Know the symptoms`,

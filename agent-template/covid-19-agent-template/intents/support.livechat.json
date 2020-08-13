@@ -6,25 +6,30 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": "Okay. I\u0027m transferring you to a live agent right now."
+          "speech": [
+            "Okay. I\u0027m transferring you to a live agent right now."
+          ],
+          "condition": ""
         },
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eOkay. I\u0027m transferring you to a live agent right now.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eOkay. I\u0027m transferring you to a live agent right now.\u003c/speak\u003e",
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

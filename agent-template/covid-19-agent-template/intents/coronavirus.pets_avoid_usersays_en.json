@@ -1,6 +1,5 @@
 [
   {
-    "id": "9f5236cf-2d10-4e99-bfc5-90ccbc515158",
     "data": [
       {
         "text": "I\u0027m sick and have animals",
@@ -9,10 +8,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "87151622-07f1-49b7-b5b0-e472c45e3450",
     "data": [
       {
         "text": "I\u0027m sick and have pets",
@@ -21,10 +20,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "c6d1ec9f-03da-4aa1-ac77-a9ad361b78bc",
     "data": [
       {
         "text": "Should I stay way from pets if I have ",
@@ -32,17 +31,17 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "feaf8113-88b5-450e-bfa8-1524c8480f52",
     "data": [
       {
         "text": "Should I avoid contact with pets or other animals if I am sick with ",
@@ -50,8 +49,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -61,10 +60,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "e16f4a78-1865-45c3-bf52-c901e10b35bc",
     "data": [
       {
         "text": "What if I have pets when I\u0027m sick?",
@@ -73,10 +72,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "b164e3f4-4da7-427c-856b-b7cc17724e81",
     "data": [
       {
         "text": "Should I avoid my pet while sick?",
@@ -85,6 +84,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

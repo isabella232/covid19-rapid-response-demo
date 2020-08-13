@@ -1,6 +1,5 @@
 [
   {
-    "id": "47a48807-5ea5-4518-a925-818ca8c1bc26",
     "data": [
       {
         "text": "What is the source of the virus?",
@@ -9,6 +8,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -20,8 +20,8 @@
       },
       {
         "text": "covid",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -40,6 +40,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -51,8 +52,8 @@
       },
       {
         "text": "covid-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -71,6 +72,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -82,8 +84,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -102,6 +104,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -114,6 +117,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -135,6 +139,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -146,8 +151,8 @@
       },
       {
         "text": "covid-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": true
       },
       {
@@ -157,6 +162,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -168,8 +174,8 @@
       },
       {
         "text": "corona",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -179,6 +185,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -200,6 +207,7 @@
     ],
     "isTemplate": false,
     "count": 2,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -211,8 +219,8 @@
       },
       {
         "text": "covid-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": true
       },
       {
@@ -222,6 +230,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -234,6 +243,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -246,6 +256,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -258,6 +269,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -269,8 +281,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -280,6 +292,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -291,8 +304,8 @@
       },
       {
         "text": "Coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -311,6 +324,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -322,8 +336,8 @@
       },
       {
         "text": "Coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -342,6 +356,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -349,13 +364,14 @@
     "data": [
       {
         "text": "wuhan",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -367,8 +383,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -387,6 +403,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -398,8 +415,8 @@
       },
       {
         "text": "covid-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -418,6 +435,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -429,8 +447,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -440,6 +458,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -451,8 +470,8 @@
       },
       {
         "text": "virus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -462,6 +481,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -473,8 +493,8 @@
       },
       {
         "text": "virus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -493,6 +513,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

@@ -1,6 +1,5 @@
 [
   {
-    "id": "0c1b033e-a8e9-4a5e-99ba-c7d613ef1b65",
     "data": [
       {
         "text": "Is ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -18,8 +17,8 @@
       },
       {
         "text": "US",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       },
       {
@@ -29,10 +28,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "1dd119b1-0939-4c22-964b-2eeb581ea69a",
     "data": [
       {
         "text": "Am I at risk for ",
@@ -40,8 +39,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -50,8 +49,8 @@
       },
       {
         "text": "United States",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       },
       {
@@ -61,10 +60,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "62da8a41-7c30-4810-847f-cdd4927f29c2",
     "data": [
       {
         "text": "Can I get ",
@@ -72,8 +71,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -82,8 +81,8 @@
       },
       {
         "text": "USA",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       },
       {
@@ -93,6 +92,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

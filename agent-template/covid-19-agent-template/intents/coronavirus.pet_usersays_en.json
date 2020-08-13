@@ -1,6 +1,5 @@
 [
   {
-    "id": "2cb19768-2bb6-4dad-bfc8-b2e7e8ee1ab6",
     "data": [
       {
         "text": "Can I get COVID-19 from my pets or other animals?",
@@ -9,6 +8,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -21,6 +21,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -33,6 +34,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -44,8 +46,8 @@
       },
       {
         "text": "virus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -55,6 +57,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -67,6 +70,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -79,6 +83,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -90,8 +95,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -101,6 +106,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -113,6 +119,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -124,8 +131,8 @@
       },
       {
         "text": "corona",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -135,6 +142,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -147,6 +155,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -159,6 +168,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -171,6 +181,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -183,6 +194,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -194,8 +206,8 @@
       },
       {
         "text": "covid-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": true
       },
       {
@@ -205,6 +217,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -216,8 +229,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -227,6 +240,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -239,6 +253,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -251,6 +266,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

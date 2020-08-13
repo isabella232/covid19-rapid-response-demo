@@ -1,6 +1,5 @@
 [
   {
-    "id": "6a4418d6-4213-415b-9250-5e35fb76cb80",
     "data": [
       {
         "text": "Should everyone get a ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -19,10 +18,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "c5b8e4dc-0664-413a-889a-9ba8c459c6da",
     "data": [
       {
         "text": "Who needs a ",
@@ -30,8 +29,8 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -41,10 +40,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "eff36feb-2f6a-4589-b34a-ebc7ce4b0b95",
     "data": [
       {
         "text": "Should I be tested for ",
@@ -52,8 +51,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -63,10 +62,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "674dfad3-1b49-46a2-9aeb-30616c887d9f",
     "data": [
       {
         "text": "Do I need a test for ",
@@ -74,8 +73,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -85,6 +84,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

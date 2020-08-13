@@ -6,47 +6,57 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [
         {
           "id": "2b3d0fbe-97ef-407f-a397-4a102ee4c1c1",
+          "name": "covid-19",
           "required": false,
           "dataType": "@covid-19",
-          "name": "covid-19",
           "value": "$covid-19",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
+          "outputDialogContexts": []
         },
         {
           "id": "05b3bbd8-e068-4a60-aedb-c7ce01adb98a",
+          "name": "geo-country",
           "required": false,
           "dataType": "@sys.geo-country",
-          "name": "geo-country",
           "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
+          "outputDialogContexts": []
         }
       ],
       "messages": [
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eThis is a rapidly evolving situation and the risk assessment may change daily. The latest updates are available on CDC’s Coronavirus Disease 2019 (COVID-19) website.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eThis is a rapidly evolving situation and the risk assessment may change daily. The latest updates are available on CDC’s Coronavirus Disease 2019 (COVID-19) website.\u003c/speak\u003e",
+          "condition": ""
         },
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": "This is a rapidly evolving situation and the risk assessment may change daily. The latest updates are available on CDC’s Coronavirus Disease 2019 (COVID-19) website."
+          "speech": [
+            "This is a rapidly evolving situation and the risk assessment may change daily. The latest updates are available on CDC’s Coronavirus Disease 2019 (COVID-19) website."
+          ],
+          "condition": ""
         }
       ],
       "defaultResponsePlatforms": {

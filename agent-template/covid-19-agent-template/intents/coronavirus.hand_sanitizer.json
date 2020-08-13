@@ -6,25 +6,30 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": "The CDC recommends washing your hands with soap and water for at least 20 seconds. If soap and water aren\u0027t available, use an alcohol-based hand sanitizer with at least 60% alcohol. Liquor shouldn\u0027t be used in place of hand sanitizer."
+          "speech": [
+            "The CDC recommends washing your hands with soap and water for at least 20 seconds. If soap and water aren\u0027t available, use an alcohol-based hand sanitizer with at least 60% alcohol. Liquor shouldn\u0027t be used in place of hand sanitizer."
+          ],
+          "condition": ""
         },
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eThe CDC recommends washing your hands with soap and water for at least 20 seconds. If soap and water aren\u0027t available, use an alcohol-based hand sanitizer with at least 60% alcohol. Liquor shouldn\u0027t be used in place of hand sanitizer.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eThe CDC recommends washing your hands with soap and water for at least 20 seconds. If soap and water aren\u0027t available, use an alcohol-based hand sanitizer with at least 60% alcohol. Liquor shouldn\u0027t be used in place of hand sanitizer.\u003c/speak\u003e",
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

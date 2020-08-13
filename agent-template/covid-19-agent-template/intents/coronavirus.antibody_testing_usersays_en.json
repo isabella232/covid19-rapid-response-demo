@@ -1,11 +1,10 @@
 [
   {
-    "id": "ca0de78c-c7f6-44d8-ac73-38eb03481bd5",
     "data": [
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -15,10 +14,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "3412d66a-a092-462f-85ab-27f2ba1cdaac",
     "data": [
       {
         "text": "Antibody testing",
@@ -27,10 +26,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "82d3b5e5-d156-468f-8e21-eccb1e6f99fd",
     "data": [
       {
         "text": "Do I have antibodies?",
@@ -39,10 +38,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "0e595c3e-0156-4ea3-9efd-1d1f6a87def3",
     "data": [
       {
         "text": "Can I get tested for ",
@@ -50,8 +49,8 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -61,10 +60,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "e1842d5b-b709-4998-bf34-970b54d699d2",
     "data": [
       {
         "text": "Can I be tested for antibodies?",
@@ -73,10 +72,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "43b59bb9-a4e5-4239-9ab3-b17e4bd3e42f",
     "data": [
       {
         "text": "What is antibody testing?",
@@ -85,6 +84,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

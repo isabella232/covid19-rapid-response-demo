@@ -9,16 +9,15 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [
         {
           "name": "end",
-          "parameters": {},
           "lifespan": 0
         }
       ],
       "parameters": [],
       "messages": [],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

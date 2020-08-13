@@ -8,8 +8,8 @@
       },
       {
         "text": "banks",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -19,6 +19,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -31,6 +32,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -42,8 +44,8 @@
       },
       {
         "text": "restaurant",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -52,8 +54,8 @@
       },
       {
         "text": "today",
-        "alias": "date-time",
         "meta": "@sys.date-time",
+        "alias": "date-time",
         "userDefined": false
       },
       {
@@ -63,6 +65,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -74,8 +77,8 @@
       },
       {
         "text": "pharmacies",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -84,8 +87,8 @@
       },
       {
         "text": "Boston",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": false
       },
       {
@@ -95,6 +98,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -106,8 +110,8 @@
       },
       {
         "text": "hospitals",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -116,8 +120,8 @@
       },
       {
         "text": "Dallas",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": false
       },
       {
@@ -127,6 +131,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -138,8 +143,8 @@
       },
       {
         "text": "today",
-        "alias": "date-time",
         "meta": "@sys.date-time",
+        "alias": "date-time",
         "userDefined": false
       },
       {
@@ -149,6 +154,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -160,8 +166,8 @@
       },
       {
         "text": "schools",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -170,8 +176,8 @@
       },
       {
         "text": "today",
-        "alias": "date-time",
         "meta": "@sys.date-time",
+        "alias": "date-time",
         "userDefined": false
       },
       {
@@ -181,6 +187,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -192,8 +199,8 @@
       },
       {
         "text": "restaurants",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -203,6 +210,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -214,8 +222,8 @@
       },
       {
         "text": "hospitals",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -224,8 +232,8 @@
       },
       {
         "text": "Mumbai",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": false
       },
       {
@@ -235,6 +243,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -242,8 +251,8 @@
     "data": [
       {
         "text": "grocery stores",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -252,13 +261,14 @@
       },
       {
         "text": "siliguri",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -270,8 +280,8 @@
       },
       {
         "text": "hospital",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -280,13 +290,14 @@
       },
       {
         "text": "boston",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -298,8 +309,8 @@
       },
       {
         "text": "hospital",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": true
       },
       {
@@ -308,13 +319,14 @@
       },
       {
         "text": "phoenix",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -322,8 +334,8 @@
     "data": [
       {
         "text": "Pharmacy",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -332,13 +344,14 @@
       },
       {
         "text": "new york",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -346,8 +359,8 @@
     "data": [
       {
         "text": "Hospital",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -356,13 +369,14 @@
       },
       {
         "text": "new york",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -374,8 +388,8 @@
       },
       {
         "text": "stores",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -384,8 +398,8 @@
       },
       {
         "text": "California",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": true
       },
       {
@@ -395,6 +409,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -406,8 +421,8 @@
       },
       {
         "text": "pharmacies",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -416,8 +431,8 @@
       },
       {
         "text": "today",
-        "alias": "date-time",
         "meta": "@sys.date-time",
+        "alias": "date-time",
         "userDefined": false
       },
       {
@@ -427,6 +442,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -438,8 +454,8 @@
       },
       {
         "text": "grocery stores",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -448,8 +464,8 @@
       },
       {
         "text": "today",
-        "alias": "date-time",
         "meta": "@sys.date-time",
+        "alias": "date-time",
         "userDefined": false
       },
       {
@@ -459,6 +475,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -470,8 +487,8 @@
       },
       {
         "text": "stores",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -481,6 +498,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -488,13 +506,14 @@
     "data": [
       {
         "text": "new york",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -506,8 +525,8 @@
       },
       {
         "text": "stores",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -517,6 +536,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -528,8 +548,8 @@
       },
       {
         "text": "airports",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": true
       },
       {
@@ -539,6 +559,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -550,8 +571,8 @@
       },
       {
         "text": "stores",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -561,6 +582,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -572,8 +594,8 @@
       },
       {
         "text": "grocery store",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -583,6 +605,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -594,8 +617,8 @@
       },
       {
         "text": "grocery stores",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -605,6 +628,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -616,8 +640,8 @@
       },
       {
         "text": "restaurants",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": true
       },
       {
@@ -627,6 +651,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -638,8 +663,8 @@
       },
       {
         "text": "schools",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": true
       },
       {
@@ -648,8 +673,8 @@
       },
       {
         "text": "morgan hill",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": true
       },
       {
@@ -659,6 +684,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -670,8 +696,8 @@
       },
       {
         "text": "restaurants",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": true
       },
       {
@@ -680,8 +706,8 @@
       },
       {
         "text": "SF",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": false
       },
       {
@@ -691,6 +717,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -702,8 +729,8 @@
       },
       {
         "text": "school",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": true
       },
       {
@@ -713,6 +740,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -724,8 +752,8 @@
       },
       {
         "text": "food delivery",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": false
       },
       {
@@ -735,6 +763,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -746,8 +775,8 @@
       },
       {
         "text": "grocery stores",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": true
       },
       {
@@ -757,6 +786,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -768,8 +798,8 @@
       },
       {
         "text": "restaurants",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": true
       },
       {
@@ -778,8 +808,8 @@
       },
       {
         "text": "SF",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": true
       },
       {
@@ -789,6 +819,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -800,8 +831,8 @@
       },
       {
         "text": "schools",
-        "alias": "organization",
         "meta": "@sys.location",
+        "alias": "organization",
         "userDefined": true
       },
       {
@@ -810,8 +841,8 @@
       },
       {
         "text": "the Bay Area",
-        "alias": "geo-city",
         "meta": "@sys.geo-city",
+        "alias": "geo-city",
         "userDefined": true
       },
       {
@@ -821,6 +852,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

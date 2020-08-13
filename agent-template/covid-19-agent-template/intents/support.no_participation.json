@@ -6,41 +6,43 @@
   "responses": [
     {
       "resetContexts": true,
+      "action": "",
       "affectedContexts": [
         {
           "name": "satisfaction",
-          "parameters": {},
           "lifespan": 5
         },
         {
           "name": "very",
-          "parameters": {},
           "lifespan": 5
         },
         {
           "name": "satisfied",
-          "parameters": {},
           "lifespan": 5
         }
       ],
       "parameters": [],
       "messages": [
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
           "text": "Ok, goodbye.",
-          "ssml": ""
+          "condition": ""
         },
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": "Ok, goodbye."
+          "speech": [
+            "Ok, goodbye."
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

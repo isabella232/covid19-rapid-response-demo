@@ -6,38 +6,45 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [
         {
           "id": "37efd644-19ef-4f1b-86fd-fc70816dae0c",
+          "name": "covid-19",
           "required": false,
           "dataType": "@covid-19",
-          "name": "covid-19",
           "value": "$covid-19",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
+          "outputDialogContexts": []
         }
       ],
       "messages": [
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eVisit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19.\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eVisit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19.\u003c/speak\u003e",
+          "condition": ""
         },
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": "Visit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19."
+          "speech": [
+            "Visit the CDC website to learn about how to protect yourself from respiratory illnesses, like COVID-19."
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

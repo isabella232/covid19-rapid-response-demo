@@ -1,6 +1,5 @@
 [
   {
-    "id": "2c7b09e3-9da7-4be2-8849-2b34d289b681",
     "data": [
       {
         "text": "Can ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "COVID",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -19,10 +18,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "10da4249-7755-41aa-a298-b47dd2258130",
     "data": [
       {
         "text": "Can I get ",
@@ -30,8 +29,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -41,10 +40,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "56955acc-0a62-43f7-8fe7-b1916646cb8f",
     "data": [
       {
         "text": "Can someone who has been quarantined for ",
@@ -52,8 +51,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -63,6 +62,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

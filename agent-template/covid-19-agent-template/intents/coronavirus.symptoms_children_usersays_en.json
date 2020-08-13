@@ -1,6 +1,5 @@
 [
   {
-    "id": "2cbb6944-1a9b-444d-82cf-1f1450484c5b",
     "data": [
       {
         "text": "Do kids get different symptoms from ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -19,10 +18,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "81b4483f-5dad-42cf-b1a1-e198d8e8ba3c",
     "data": [
       {
         "text": "Are the symptoms of ",
@@ -30,8 +29,8 @@
       },
       {
         "text": "COVID-19",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -41,6 +40,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

@@ -9,28 +9,31 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
-          "type": 14,
+          "type": "14",
           "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "text": "",
-          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have any of the following: Asthma, Cerebrovascular disease, Cystic fibrosis, Diabetes mellitus, Type 1, Hypertension or high blood pressure, Immunocompromised state (weakened immune system), Neurologic conditions,  Liver disease, Pregnancy, Pulmonary fibrosis, Smoking, Thalassemia\u003c/speak\u003e"
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have any of the following: Asthma, Cancer, Cerebrovascular disease, Cystic fibrosis, Diabetes mellitus, Type 1, Hypertension or high blood pressure, Immunocompromised state (weakened immune system), Neurologic conditions,  Liver disease, Pregnancy, Pulmonary fibrosis, Smoking, Thalassemia\u003c/speak\u003e",
+          "condition": ""
         },
         {
-          "type": 4,
-          "lang": "en",
-          "condition": "",
+          "type": "4",
+          "title": "",
           "payload": {
             "richContent": [
               [
                 {
+                  "type": "description",
                   "title": "Do #pronouns.pronoun1 have any of the following:",
                   "text": [
                     "Asthma",
+                    "Cancer",
                     "Cerebrovascular disease",
                     "Cystic fibrosis",
                     "Diabetes mellitus, Type 1",
@@ -42,29 +45,31 @@
                     "Pulmonary fibrosis",
                     "Smoking",
                     "Thalassemia"
-                  ],
-                  "type": "description"
+                  ]
                 }
               ],
               [
                 {
+                  "type": "chips",
                   "options": [
                     {
                       "text": "Yes",
-                      "link": "",
-                      "image": {}
+                      "image": {},
+                      "link": ""
                     },
                     {
-                      "image": {},
                       "text": "No",
+                      "image": {},
                       "link": ""
                     }
-                  ],
-                  "type": "chips"
+                  ]
                 }
               ]
             ]
-          }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
         }
       ],
       "defaultResponsePlatforms": {

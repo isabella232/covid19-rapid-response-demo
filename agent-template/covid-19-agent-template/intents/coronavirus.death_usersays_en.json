@@ -9,6 +9,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -21,6 +22,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -32,13 +34,14 @@
       },
       {
         "text": "us",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -50,8 +53,8 @@
       },
       {
         "text": "New Zealand",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       },
       {
@@ -61,6 +64,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -72,13 +76,14 @@
       },
       {
         "text": "india",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -91,6 +96,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -102,13 +108,14 @@
       },
       {
         "text": "korea",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -120,8 +127,8 @@
       },
       {
         "text": "Jordan",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": true
       },
       {
@@ -131,6 +138,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -143,6 +151,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -155,6 +164,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -166,13 +176,14 @@
       },
       {
         "text": "US",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -184,8 +195,8 @@
       },
       {
         "text": "France",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       },
       {
@@ -195,6 +206,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -206,8 +218,8 @@
       },
       {
         "text": "US",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       },
       {
@@ -217,6 +229,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -228,8 +241,8 @@
       },
       {
         "text": "Corona",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -238,8 +251,8 @@
       },
       {
         "text": "United Kingdom",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       },
       {
@@ -249,6 +262,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -261,6 +275,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -273,6 +288,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -284,8 +300,8 @@
       },
       {
         "text": "uk",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       },
       {
@@ -295,6 +311,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -307,6 +324,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -318,13 +336,14 @@
       },
       {
         "text": "US",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -337,6 +356,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -349,6 +369,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -360,13 +381,14 @@
       },
       {
         "text": "us",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -378,8 +400,8 @@
       },
       {
         "text": "United States",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": false
       },
       {
@@ -389,6 +411,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -401,6 +424,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -413,6 +437,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -425,6 +450,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -437,6 +463,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -449,6 +476,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -461,6 +489,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -473,6 +502,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -485,6 +515,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -496,8 +527,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -507,6 +538,7 @@
     ],
     "isTemplate": false,
     "count": 1,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -519,6 +551,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -531,6 +564,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -543,6 +577,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -555,6 +590,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -567,6 +603,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -579,6 +616,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -591,6 +629,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -598,8 +637,8 @@
     "data": [
       {
         "text": "US",
-        "alias": "geo-country",
         "meta": "@sys.geo-country",
+        "alias": "geo-country",
         "userDefined": true
       },
       {
@@ -608,8 +647,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -619,6 +658,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -626,8 +666,8 @@
     "data": [
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -637,6 +677,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -649,6 +690,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -661,6 +703,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -673,6 +716,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -685,6 +729,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -696,8 +741,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -707,6 +752,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
@@ -718,8 +764,8 @@
       },
       {
         "text": "coronavirus",
-        "alias": "covid-19",
         "meta": "@covid-19",
+        "alias": "covid-19",
         "userDefined": false
       },
       {
@@ -729,6 +775,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]
